@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AKI-Produktentwicklung
-- 👀 I’m interested in electronic projects
-- 🌱 I’m currently learning to survive this cracy world
+- 👋 Hi, I’m AKI @AKI-Produktentwicklung
+- 👀 I’m interested in electronics, IoT, Music and more ...
+- 🌱 I’m still learning to survive this cracy world
 - 💞️ I’m looking to collaborate on normal thinking people
 - 📫 send me an email.
 
